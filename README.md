@@ -18,9 +18,9 @@ The purpose of this analysis was to develop a binary classifier using deep learn
 #### Neural Network Model:
 - Three neural network models were created nn1, nn2, nn3, and the best performing model was nn1 .
 - The best performing model consisted of three hidden layers with 100, 70 and 90 neurons, respectively, ReLU activation functions for the first, second and third hidden layers, and Sigmoid as the output layer.
-![NN1](Image URL)
-![NN2](Image URL)
-![NN3](Image URL)
+![NN1](pics/NN1.png)
+![NN2](pics/NN2.png)
+![NN3](pics/NN3.png)
 
 #### Model Performance:
 - The target model performance was set to achieve accuracy higher than 75%, but the optimization attempts were unsuccessful. Optimization techniques like adjusting bin values, adding neurons/hidden layers, using different activation functions, and modifying the number of epochs during training were utilized to help reach 75%.
